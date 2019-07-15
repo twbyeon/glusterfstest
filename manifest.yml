@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-spring-glusterfs
+  memory: 1024M
+  instances: 1
+  path: target/hello-spring-glusterfs.war
