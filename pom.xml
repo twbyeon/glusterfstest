@@ -17,7 +17,7 @@
 		<spring-cloud.version>1.2.0.BUILD-SNAPSHOT</spring-cloud.version>
 		
 		<common-dbcp.version>1.3</common-dbcp.version>
-		<spring-data-mongo.version>1.0.1.RELEASE</spring-data-mongo.version>		
+		<spring-data-mongo.version>3.3.5</spring-data-mongo.version>		
 		<org.springframework.amqp-version>1.0.0.RC2</org.springframework.amqp-version>
 		
 		<mysql-driver.version>5.0.5</mysql-driver.version>
